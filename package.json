@@ -1,0 +1,23 @@
+{
+  "name": "places",
+  "version": "1.0.0",
+  "description": "application for search nearby location",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakurshilpa/Places.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thakurshilpa/Places/issues"
+  },
+  "homepage": "https://github.com/thakurshilpa/Places#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
