@@ -25,7 +25,7 @@ var Places = [
 					Facilities:"Breakfast Lunch Dinner"
 					
 				},
-			{
+				 {
 					long:1.111,
 					lat:1.8111,
 					restaurant:"Sharma Hotel",
@@ -37,7 +37,7 @@ var Places = [
 				
 					
 				},
-				 {
+			 {
 					long:1.22,
 					lat:1.33,
 					restaurant:"kathi king",
@@ -71,12 +71,19 @@ var Places = [
 					
 				}
 			];
-			app.get('/:long/:lat', function(req, res) {
-				 var place = Places["long: " + req.params.long+"lat:"+req.params.long];
-    
-    res.end( "places :\n" + JSON.stringify(place, null, 4));
-			//	res.json({ long: req.params.long,
-          //lat: req.params.lat });
+			app.get('/:long&:lat', function(req, res) {
+				var reqlong=req.params.long;
+				var reqlat=req.params.lat;
+
+
+				for(var i=0;i<Places.length;i++)
+				{
+                if(Places[i].long==reqlong&&Places[i].lat==reqlat)
+                    {
+                     res.send("Information of place is"+ Places[i].lat + Places[i].long + Places[i].restaurant + Places[i].Contact_details + Places[i].opening_timing + Places[i].closing_timing);
+                    }
+				}
+			
           /*var data = {
         "Place": {
             "long": req.params.long,
@@ -88,4 +95,4 @@ var Places = [
 
    
 });
-	console.log("Server running:");		app.listen(8001);
+	console.log("Server running:");	console.log(Places.length);	app.listen(8001);
