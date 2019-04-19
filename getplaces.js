@@ -69,6 +69,17 @@ var Places = [
 					closing_timing:"10:00pm",
 					Facilities:"Breakfast Lunch Dinner"
 					
+				},
+				{
+					long:1.24,
+					lat:1.35,
+					restaurant:"AAA restaurant",
+					//"Address":"Near sbi bank"
+					Contact_details:"0197227266",
+					opening_timing:"9:00am",
+					closing_timing:"10:00pm",
+					Facilities:"Breakfast Lunch Dinner"
+					
 				}
 			];
 			app.get('/:long&:lat', function(req, res) {
@@ -80,19 +91,14 @@ var Places = [
 				{
                 if(Places[i].long==reqlong&&Places[i].lat==reqlat)
                     {
-                     res.send("Information of place is"+ Places[i].lat + Places[i].long + Places[i].restaurant + Places[i].Contact_details + Places[i].opening_timing + Places[i].closing_timing);
+                     res.write("Information of place is"+ Places[i].lat + Places[i].long + Places[i].restaurant + Places[i].Contact_details + Places[i].opening_timing + Places[i].closing_timing);
                     }
 				}
-			
-          /*var data = {
-        "Place": {
-            "long": req.params.long,
-            "lat": req.params.lat
-        }
-    }; 
-
-    res.json(data);*/
+				res.end("got all entries");
+	});
+				
+		
 
    
-});
+
 	console.log("Server running:");	console.log(Places.length);	app.listen(8001);
