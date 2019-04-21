@@ -1,6 +1,5 @@
-
-var express=require('express');
-var app=express();
+var express = require('express');
+var app = express();
 
 
 
@@ -85,9 +84,22 @@ var app=express();
 					
 				}
 			];
-app.get('/', function(req, res) {
+app.get('/:long&:lat',function(req, res) {
 
-    res.send(Places);
+    var result = [];
+    var long=req.params.long;
+
+    var lat=req.params.lat;
+for (var i=0;i<Places.length;i++) 
+{
+	if(Places[i].long==long&&Places[i].lat==lat)
+  
+    result.push(Places[i]);
+  
+}
+
+res.contentType('application/json');
+res.end(JSON.stringify(result));
 });
 
-console.log("Server running:");		app.listen(8001);
+ console.log("Server running:");		app.listen(8001);
