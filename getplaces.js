@@ -1,104 +1,66 @@
+'use strict'
+const fs = require('fs');
 
-var express=require('express');
-var app=express();
-var Places = [
-				{
-					long:1.2,
-					lat:1.3,
-					restaurant:"Lovely",
-					//Address: "Lovely Near punjab national bank",
-					Contact_details:"01972364587",
-					opening_timing:"9:00am",
-					closing_timing:"11:00pm",
-					Facilities:"Breakfast Lunch Dinner"
-					
-				},
-				
-				 {
-					long:1.8,
-					lat:1.9,
-					restaurant:"Aamar Hotel",
-					//Address: "Aamar hotel near main market",
-					Contact_details:"0197233888",
-					opening_timing:"9:00am",
-					closing_timing:"12:pm",
-					Facilities:"Breakfast Lunch Dinner"
-					
-				},
-				 {
-					long:1.111,
-					lat:1.8111,
-					restaurant:"Sharma Hotel",
-					//Address: "friends plaza near bust stop",
-					Contact_details:"0197237998",
-					opening_timing:"9:00am",
-					closing_timing:"12:pm",
-					Facilities:"Breakfast Lunch Dinner"
-				
-					
-				},
-			 {
-					long:1.22,
-					lat:1.33,
-					restaurant:"kathi king",
-					//Address: "main market"
-					Contact_details:"9876444333",
-					opening_timing:"8:00am",
-					closing_timing:"8:00pm",
-					Facilities:"breakfast lunch dinner"
-					
-				},
-				 {
-					long:1.20,
-					lat:1.30,
-					restaurant:"villa camila",
-					//"Address": "hanuman mandir"
-					Contact_details:"7766443555",
-					opening_timing:"4:00am",
-					closing_timing:"7:00pm",
-					Facilities:"breakfast lunch dinner"
-					
-				},
-				 {
-					long:1.24,
-					lat:1.35,
-					restaurant:"ramsham restaurant",
-					//"Address":"Near sbi bank"
-					Contact_details:"0197227266",
-					opening_timing:"9:00am",
-					closing_timing:"10:00pm",
-					Facilities:"Breakfast Lunch Dinner"
-					
-				},
-				{
-					long:1.24,
-					lat:1.35,
-					restaurant:"AAA restaurant",
-					//"Address":"Near sbi bank"
-					Contact_details:"0197227266",
-					opening_timing:"9:00am",
-					closing_timing:"10:00pm",
-					Facilities:"Breakfast Lunch Dinner"
-					
-				}
-			];
-			app.get('/:long&:lat', function(req, res) {
-				var reqlong=req.params.long;
-				var reqlat=req.params.lat;
+//http://localhost:8001/getplaces?lat=1.30&lng=1.20
+
+// We should add restaurants to this file places_database.json
+let rawPlacesData = fs.readFileSync('Places1_database.json');
+let Places = JSON.parse(rawPlacesData);
+
+let getplaces = function(lat, lng) {
+    var result = [];
+    var radius = 5; //KM
+	for (var i=0;i<Places.length;i++) {
+		let distance = getDistance(lat,lng, Places.geomatry[i].location.lat, Places.geomatry[i].location.long);
+		console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places.geomatry[i].location.lat + "," + Places.geomatry[i].location.longitude + ") is " + distance + " KM");
+		if(distance < radius) { 
+	 	   result.push(Places[i]);
+		}
+	}
+
+	return result;
+};
+
+if(typeof(Number.prototype.toRad) === "undefined") {
+    Number.prototype.toRad = function () {
+        return this * Math.PI / 180;
+    }
+}
+
+let toRad = function(value) {
+	 return value * Math.PI / 180;
+}
 
 
-				for(var i=0;i<Places.length;i++)
-				{
-                if(Places[i].long==reqlong&&Places[i].lat==reqlat)
-                    {
-                     res.write("Information of place is"+ Places[i].lat + Places[i].long + Places[i].restaurant + Places[i].Contact_details + Places[i].opening_timing + Places[i].closing_timing);
-                    }
-				}
-				res.end("got all entries");
-	});
-				
-		
+// start and end are objects with latitude and longitude
+//decimals (default 2) is number of decimals in the output
+//return is distance in kilometers. 
+let getDistance = function(lat1, lng1, lat2, lng2) {
+	// use some API or external module to calculate distance
+	let start = { latitude: lat1, longitude: lng1 }
+	let end = { latitude: lat2, longitude: lng2 }
+    let decimals = 2;
+    var earthRadius = 6371; // km
+    lat1 = parseFloat(start.latitude);
+    lat2 = parseFloat(end.latitude);
+    let lon1 = parseFloat(start.longitude);
+    let lon2 = parseFloat(end.longitude);
 
-   
+    var dLat = toRad(lat2 - lat1);
+    var dLon = toRad(lon2 - lon1);
+    var lat1 = toRad(lat1);
+    var lat2 = toRad(lat2);
+// c is the angular distance in radians, and a is the square of half the chord length between the points.//
+    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+            Math.sin(dLon / 2) * Math.sin(dLon / 2) * Math.cos(lat1) * Math.cos(lat2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    var d = earthRadius * c;
+    return Math.round(d * Math.pow(10, decimals)) / Math.pow(10, decimals);
+};
 
-	console.log("Server running:");	console.log(Places.length);	app.listen(8001);
+
+module.exports = {
+    getplaces: getplaces
+};
+
+
