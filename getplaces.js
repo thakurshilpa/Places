@@ -7,23 +7,40 @@ const fs = require('fs');
 let rawPlacesData = fs.readFileSync('Places1_database.json');
 let Places = JSON.parse(rawPlacesData);
 
-let getplaces = function(lat, lng) {
+let getplaces = function(lat, lng,radius) {
     var result = [];
     var distanceArray=[];
     //Object.keys(req.query).length    one option
-    
-    var radius = 5; //KM
+    if(radius==' ')
+    {
+    var radiusa = 1.27; //KM
+
+    }
+    else
+    {
+        var radiusa=radius;
+    }
    
 	for (var i=0;i<Places.length;i++) {
 		let distance = getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
 		console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places[i].geometry.location.lat + "," + Places[i].geometry.location.lng + ") is " + distance + " KM");
-		if(distance < radius) { 
-            distanceArray.push(distance);
-	 	   result.push(Places[i]);
+		if(distance <radiusa) { 
+            distanceArray.push(distance); // contain distances
+	 	   result[distanceArray[i]]=Places[i];
 		}
+   distanceArray.sort(); //sort distance 
+   
 	}
+    var sortedResult=[]; // new array which is sorted by distance
 
-	return result;
+    for(var i=0;i<result.length;i++)
+    {
+        sortedResult[i]=result[distanceArray[i]]; //why it is undefined
+
+    }
+  console.log(sortedResult[0]); //it is  not working
+
+	return sortedResult; //but this array is empty
 };
 
 if(typeof(Number.prototype.toRad) === "undefined") {
