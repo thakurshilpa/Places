@@ -9,11 +9,16 @@ let Places = JSON.parse(rawPlacesData);
 
 let getplaces = function(lat, lng) {
     var result = [];
+    var distanceArray=[];
+    //Object.keys(req.query).length    one option
+    
     var radius = 5; //KM
+   
 	for (var i=0;i<Places.length;i++) {
-		let distance = getDistance(lat,lng, Places.geomatry[i].location.lat, Places.geomatry[i].location.long);
-		console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places.geomatry[i].location.lat + "," + Places.geomatry[i].location.longitude + ") is " + distance + " KM");
+		let distance = getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
+		console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places[i].geometry.location.lat + "," + Places[i].geometry.location.lng + ") is " + distance + " KM");
 		if(distance < radius) { 
+            distanceArray.push(distance);
 	 	   result.push(Places[i]);
 		}
 	}
