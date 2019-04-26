@@ -9,7 +9,8 @@ let Places = JSON.parse(rawPlacesData);
 
 let getplaces = function(lat, lng,radius) {
     var result = [];
-    var distanceArray=[];
+    var d=[];
+
     //Object.keys(req.query).length    one option
     if(radius==' ')
     {
@@ -25,22 +26,25 @@ let getplaces = function(lat, lng,radius) {
 		let distance = getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
 		console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places[i].geometry.location.lat + "," + Places[i].geometry.location.lng + ") is " + distance + " KM");
 		if(distance <radiusa) { 
-            distanceArray.push(distance); // contain distances
-	 	   result[distanceArray[i]]=Places[i];
+
+	 	   result.push(Places[i]);
 		}
-   distanceArray.sort(); //sort distance 
+
    
 	}
-    var sortedResult=[]; // new array which is sorted by distance
-
-    for(var i=0;i<result.length;i++)
+    result.sort(function(a,b)
     {
-        sortedResult[i]=result[distanceArray[i]]; //why it is undefined
+        for (var i=0;i<Places.length-1;i++)
+        {
+            let d1=getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
+            let d2=getDistance(lat,lng, Places[i+1].geometry.location.lat, Places[i+1].geometry.location.lng);
+          return d1-d2;
+        }
 
-    }
-  console.log(sortedResult[0]); //it is  not working
+    });
+console.log(result);
 
-	return sortedResult; //but this array is empty
+	return result; 
 };
 
 if(typeof(Number.prototype.toRad) === "undefined") {
