@@ -1,0 +1,2317 @@
+[
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8237596,
+               "lng" : 76.47167209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8251085802915,
+                  "lng" : 76.4730210802915
+               },
+               "southwest" : {
+                  "lat" : 31.8224106197085,
+                  "lng" : 76.4703231197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "300a0c7c8f80e109a4ee6f8a0725996c0f3332f0",
+         "name" : "dhiman iron shop",
+         "photos" : [
+            {
+               "height" : 454,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107281854704219678542/photos\"\u003edhiman iron shop\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvyP9WEvQYu8Zh80Lu8mijWf1YTq_HxrZOqlsESRorSyOUN_08qd_sCrfbzxIly6nJAyDmcIBpS2BOUzEwPDnQMS5O-uBnC3B1qmuqYeSvgGZh26DYvLrpuGLeoxzFwWwEhB3PaHQ4109N21zwL15oJMBGhT4H_zWgho8hNglS6NHqOiZOLqBxg",
+               "width" : 452
+            }
+         ],
+         "place_id" : "ChIJC7gZum7NBDkRGUvs0Vq4CFI",
+         "plus_code" : {
+            "compound_code" : "RFFC+GM Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFFC+GM"
+         },
+         "reference" : "ChIJC7gZum7NBDkRGUvs0Vq4CFI",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "bhaleth, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8237596,
+               "lng" : 76.47167209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8251085802915,
+                  "lng" : 76.4730210802915
+               },
+               "southwest" : {
+                  "lat" : 31.8224106197085,
+                  "lng" : 76.4703231197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bd2082df815a8b5df04a3f750ff0b0907a7cab0b",
+         "name" : "The Dreams Infra Landscape & Decor",
+         "place_id" : "ChIJlTu1adfNBDkRbpr1qPKTM5I",
+         "plus_code" : {
+            "compound_code" : "RFFC+GM Hamirpur, Himachal Pradesh, India",
+            "global_code" : "8J3RRFFC+GM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJlTu1adfNBDkRbpr1qPKTM5I",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "VPO BHALETH TEHSIL SUJANPUR, Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8155117,
+               "lng" : 76.4781022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8167829802915,
+                  "lng" : 76.47975638029149
+               },
+               "southwest" : {
+                  "lat" : 31.8140850197085,
+                  "lng" : 76.47705841970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "b59c07e5d246e8419b28e43b6f4b68cde04e5f05",
+         "name" : "GHS Bhaleth",
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116700677986814902348/photos\"\u003eAmit Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2MsZ8A-eWurWQfUcKIJPv7aDlW0meORQqaDIApFzQ28RPAq3myMwQ0ff5WVGN3V5NVWqQWJ0dmdCFgpsv_as_XplX4P5uOW5SfFIPkHSWBTsDm1cn86zfXois3j_9uSLEhAsDSxgFd3TgUmE1p_zNtPyGhQU2ucpKooZMghtL7OqlmdgPiTpig",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJa56pal7NBDkR-NkrWZjxsK4",
+         "plus_code" : {
+            "compound_code" : "RF8H+66 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF8H+66"
+         },
+         "rating" : 4,
+         "reference" : "ChIJa56pal7NBDkR-NkrWZjxsK4",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.815758,
+               "lng" : 76.47871800000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8170730302915,
+                  "lng" : 76.4801324302915
+               },
+               "southwest" : {
+                  "lat" : 31.8143750697085,
+                  "lng" : 76.4774344697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d18c9ebd55f9cdfea61b9da950559cb512125ca7",
+         "name" : "Him Autos",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJaWWHF17NBDkRxNFMlettOzY",
+         "plus_code" : {
+            "compound_code" : "RF8H+8F Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF8H+8F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJaWWHF17NBDkRxNFMlettOzY",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Bhaleth, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8147151,
+               "lng" : 76.4778907
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8160507302915,
+                  "lng" : 76.47927118029149
+               },
+               "southwest" : {
+                  "lat" : 31.81335276970851,
+                  "lng" : 76.47657321970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "00efc9ccc9b3b144c625d03574d00b72a750df3f",
+         "name" : "Kumar Medical Agency",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111741515947554972080/photos\"\u003eVinod Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh50EtpaFMcexfP_sLvvad1MICEbvN79jnpVOR6p9agZRhak0-MK4_JgOV9GyBkeg0osfo5xhF0wKQLBcPH9INRGr9PnIgAPXJwxRmjaMxdv7TNl48NVGIEBftJRKGogwEhDqIZZdUjVtOqe0Bg_uovXhGhQhnIf9o03wNv48wQvwrsLsl1VdpQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJhQ_GwJzNBDkRCv_b8EMcQn8",
+         "plus_code" : {
+            "compound_code" : "RF7H+V5 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7H+V5"
+         },
+         "reference" : "ChIJhQ_GwJzNBDkRCv_b8EMcQn8",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "State Highway 39, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.81464600000001,
+               "lng" : 76.4778893
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8159949302915,
+                  "lng" : 76.47923848029151
+               },
+               "southwest" : {
+                  "lat" : 31.8132969697085,
+                  "lng" : 76.47654051970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "b9dc451b3d40e97a4beb324170e0fcc04d11b521",
+         "name" : "Kumar Medical Agency And Clinic",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111741515947554972080/photos\"\u003eVinod Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABF7fb32qRnoMC6DUUydF9KweKha3yH-3JEDg4AaGZFMi4DdS-B053481vGCqSHIabWOD3SoTTlkWM0G01vXqL_GhSwXSRXUYSziEtMXUueiI22BW-KR94GfyEuUn2kFeEhD2vJIplFbjDJGsNukvdO5bGhSosi1KTV7NSnoss9ydgeopp6sgXA",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ6_OpO9_NBDkRgUBZeP3AhXE",
+         "plus_code" : {
+            "compound_code" : "RF7H+V5 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7H+V5"
+         },
+         "reference" : "ChIJ6_OpO9_NBDkRgUBZeP3AhXE",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8143442,
+               "lng" : 76.477654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.81568798029149,
+                  "lng" : 76.47904058029151
+               },
+               "southwest" : {
+                  "lat" : 31.81299001970849,
+                  "lng" : 76.4763426197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c28e4a739e9dc12f467c030fddccada20f3cce51",
+         "name" : "Shiv Sai Enterprise",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJB4vQIWfNBDkRj-6ENJzXZXk",
+         "plus_code" : {
+            "compound_code" : "RF7H+P3 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7H+P3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJB4vQIWfNBDkRj-6ENJzXZXk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "State Highway 39, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.814666,
+               "lng" : 76.478426
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8161787802915,
+                  "lng" : 76.4797183802915
+               },
+               "southwest" : {
+                  "lat" : 31.8134808197085,
+                  "lng" : 76.4770204197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/post_office-71.png",
+         "id" : "bf3aa5641af1fac28badb2e516412d324ea9afd8",
+         "name" : "Sub Post Office Blath",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ2askMV7NBDkRuB5BfToIqFY",
+         "plus_code" : {
+            "compound_code" : "RF7H+V9 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7H+V9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ2askMV7NBDkRuB5BfToIqFY",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Bhaleth, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8133547,
+               "lng" : 76.47507399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8147471302915,
+                  "lng" : 76.4765022302915
+               },
+               "southwest" : {
+                  "lat" : 31.8120491697085,
+                  "lng" : 76.47380426970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fe70fcd29f85e621a8cc3878f9f77adb37e4a772",
+         "name" : "Bridge Bhelath To Seour",
+         "photos" : [
+            {
+               "height" : 4484,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117775217006062780244/photos\"\u003eGaurav Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaJkdwhLtDSkE1GssUa2ZxoStu49awLKIOkhEQrScZMLzTQtxQT9losacG-Fyb8bycCC3DX7xjRQZt3umaaYIqV_3mLGWriMHuhzog-7yEPARezCl796xC21etwmTuGbQEhAidmsjwf-S3Qyd9o7sUE33GhQ_0zc9TMZ_hKDafJe6TK1fqLa_5Q",
+               "width" : 2526
+            }
+         ],
+         "place_id" : "ChIJswNxIl_NBDkRJcSoanPbtC4",
+         "plus_code" : {
+            "compound_code" : "RF7G+82 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7G+82"
+         },
+         "rating" : 4,
+         "reference" : "ChIJswNxIl_NBDkRJcSoanPbtC4",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8141117,
+               "lng" : 76.47771569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.81545943029149,
+                  "lng" : 76.4790756302915
+               },
+               "southwest" : {
+                  "lat" : 31.81276146970849,
+                  "lng" : 76.4763776697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "9002e8a0b2c496d6de274efb808893d55d53c7e3",
+         "name" : "Bhaleth Bus Stop",
+         "place_id" : "ChIJJ_NOSV7NBDkRM-RDgEQXEiM",
+         "plus_code" : {
+            "compound_code" : "RF7H+J3 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7H+J3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJJ_NOSV7NBDkRM-RDgEQXEiM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8130974,
+               "lng" : 76.4737128
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8144113802915,
+                  "lng" : 76.4749027802915
+               },
+               "southwest" : {
+                  "lat" : 31.8117134197085,
+                  "lng" : 76.47220481970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2d3d2cb27a15d91998c0428abac319f31d6d1c3d",
+         "name" : "Sihorbala Bridge",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115151835892940000006/photos\"\u003eAman Mehra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzlU5j7UZAwaswsJdLey3jJt72ZI5rlnZkmJWFcnE19K06-yRivbnzY5gsqm_e9fUcm9UWBYOnM8UDO5yBSE-zr_Z_HNDmANJ8EpfliPSBwzpvaTKgNLHCZoZlYAkBBk5EhDz0HLJ3gJJKXjsZFlkeYSGGhT8lwDQ_Yw4Qr0AEit8izJHWOZPOg",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJH1k6LV_NBDkRZBJ7XS1hR3Y",
+         "plus_code" : {
+            "compound_code" : "RF7F+6F Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7F+6F"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJH1k6LV_NBDkRZBJ7XS1hR3Y",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "Chowki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.81388320000001,
+               "lng" : 76.47787219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8152277802915,
+                  "lng" : 76.4791231302915
+               },
+               "southwest" : {
+                  "lat" : 31.8125298197085,
+                  "lng" : 76.47642516970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0393b17c11c8a363cfdabec5dde2d2cfc2b31368",
+         "name" : "Happy Orchards",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107395367000659337317/photos\"\u003eManish Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQb37WD8tcIyi5Q6cKvQYzRd_TFalT7B3lt3Afqa1RaTrWWkeGU_W-jRx0ooB3uA31RcaBpm3YNfjmCetzN8LkQbpARRbKUuS5qZSaEfMn5mdzJcTu_6anDOps2VWuycqEhAuDhl3iYSz61B4rmg9Kd7qGhSJSUNOWJLgwr63K1OspdhRzzByng",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJx-Qye53NBDkRinD_iWwecDY",
+         "plus_code" : {
+            "compound_code" : "RF7H+H4 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7H+H4"
+         },
+         "reference" : "ChIJx-Qye53NBDkRinD_iWwecDY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "Bhaleth"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8133678,
+               "lng" : 76.47693249999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8147498302915,
+                  "lng" : 76.47867228029152
+               },
+               "southwest" : {
+                  "lat" : 31.8120518697085,
+                  "lng" : 76.4759743197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "7d8bed7645a1c2888ad0f3bc931e83a10d1d2353",
+         "name" : "The Kangra Central Co-operative Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117809823882467184490/photos\"\u003eRahul Verma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAioMJvF7AcrJ0c6fUodjYKXmKbF8VqmOdnH7SMY0kpstZbxbqNWHhjxYTQHoh8SbkzQpKO2ePLe088-8R9pHCmOrxsX9cuJn4GOhF_yIbhrp54lMB4LZfR_0H0-TC7n1DEhAG_uKt6RY9XeonO1C7X3UgGhSGCkmYeOHT980qp24znfYubQLlFw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ-whSr1_NBDkRwtkYOVQHaxA",
+         "plus_code" : {
+            "compound_code" : "RF7G+8Q Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7G+8Q"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ-whSr1_NBDkRwtkYOVQHaxA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "on Sihorbala Road, Bhaleth"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8131288,
+               "lng" : 76.4765642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.81448788029149,
+                  "lng" : 76.47788683029151
+               },
+               "southwest" : {
+                  "lat" : 31.8117899197085,
+                  "lng" : 76.4751888697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "899daeb686812fcfe4692820b36af2806f4a9e3d",
+         "name" : "Bijli Ground",
+         "place_id" : "ChIJ6yaBp1_NBDkRcRmriBarsfA",
+         "plus_code" : {
+            "compound_code" : "RF7G+7J Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7G+7J"
+         },
+         "rating" : 1,
+         "reference" : "ChIJ6yaBp1_NBDkRcRmriBarsfA",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "no-4, Bhaleth Sihor Pul"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8131291,
+               "lng" : 76.47657330000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8144910802915,
+                  "lng" : 76.47788853029151
+               },
+               "southwest" : {
+                  "lat" : 31.8117931197085,
+                  "lng" : 76.4751905697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ab6b3dc6771c53538d361c612086009b65b66b33",
+         "name" : "Kumar Medical Agency",
+         "place_id" : "ChIJ4XEOuv_NBDkRZqegH55IVmc",
+         "plus_code" : {
+            "compound_code" : "RF7G+7J Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7G+7J"
+         },
+         "reference" : "ChIJ4XEOuv_NBDkRZqegH55IVmc",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "Bhaleth Sihor Pul"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8201811,
+               "lng" : 76.48259190000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.82153643029149,
+                  "lng" : 76.48392558029151
+               },
+               "southwest" : {
+                  "lat" : 31.8188384697085,
+                  "lng" : 76.48122761970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "a1c51eca86a0716def66f5950cc305a715ba2543",
+         "name" : "Chonta Bus Stop",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107083300619340606966/photos\"\u003eNavu Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjgN2N8SqfpHqQ5PND4eDLtrmyIUnl97s3FPwmDyQ4ddju_MLQuOjjBNdxIMyU410j0hcL7co6AAttzG_jUPY7dmX8ve_JInsX0CVEv3ox6aIt3X2wT6bd_UrIsaRBP-SEhA7JoD4Hf4CLLy9ybI7c5KnGhTBSDLLDoNp2KPgoRRgnsLdFbzWQA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJNz8TVmbNBDkR8L15LRcd3pA",
+         "plus_code" : {
+            "compound_code" : "RFCM+32 Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFCM+32"
+         },
+         "rating" : 3,
+         "reference" : "ChIJNz8TVmbNBDkR8L15LRcd3pA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.820165,
+               "lng" : 76.482792
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8215453802915,
+                  "lng" : 76.48406548029151
+               },
+               "southwest" : {
+                  "lat" : 31.8188474197085,
+                  "lng" : 76.4813675197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fe5f26274731ee9b5c69996c33c0f4d3aa8bfbe6",
+         "name" : "Parveen Medical Agency",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJb3OV-GbNBDkRGZydTrpiy8o",
+         "plus_code" : {
+            "compound_code" : "RFCM+34 Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFCM+34"
+         },
+         "reference" : "ChIJb3OV-GbNBDkRGZydTrpiy8o",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Blath, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8129128,
+               "lng" : 76.47778079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8142784802915,
+                  "lng" : 76.4790785302915
+               },
+               "southwest" : {
+                  "lat" : 31.8115805197085,
+                  "lng" : 76.4763805697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "69f2e314de43de209dbec839b87dff68a575fa04",
+         "name" : "Pushpanjali Spinal&Natural Healthcare clinic Bhaleth",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108645340688376888874/photos\"\u003ePushpanjali Spinal&amp;Natural Healthcare clinic Bhaleth\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA53jKIRzZGkGl8ZbTpn019Fl_Oxv6xfFWjI4_vr1mJSAiw7B22w4EK_cwB-ENMXux-SokmM5fphZCPNLK1xsPAxKicSnI_rfLWUbBnEa1P_njXoCTvsxo13_lIKdUZinREhDlVRZxLdjK308kPRKgbK15GhRJ7KJSuqeKXeB3cyIoQMQlEy7n8w",
+               "width" : 481
+            }
+         ],
+         "place_id" : "ChIJB27RKKjNBDkRsaLZd5HNGZI",
+         "plus_code" : {
+            "compound_code" : "RF7H+54 Bhaleth, Himachal Pradesh, India",
+            "global_code" : "8J3RRF7H+54"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJB27RKKjNBDkRsaLZd5HNGZI",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Bhaleth"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8120723,
+               "lng" : 76.4764316
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8133467802915,
+                  "lng" : 76.47782818029151
+               },
+               "southwest" : {
+                  "lat" : 31.8106488197085,
+                  "lng" : 76.4751302197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5ee7e395dd1f310d79fe39d2004d878e9e5c834e",
+         "name" : "HIM Automobiles Hyundai",
+         "place_id" : "ChIJ-WnXCkrNBDkRFQU_IfCVWFk",
+         "plus_code" : {
+            "compound_code" : "RF6G+RH Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF6G+RH"
+         },
+         "reference" : "ChIJ-WnXCkrNBDkRFQU_IfCVWFk",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "establishment" ],
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8115133,
+               "lng" : 76.4772516
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.81313563029149,
+                  "lng" : 76.4783635802915
+               },
+               "southwest" : {
+                  "lat" : 31.8104376697085,
+                  "lng" : 76.47566561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c657d8af9db4db5ec2938dcd5a2e283a6e08bed",
+         "name" : "Vegetable Farm",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117495510583165536007/photos\"\u003eravinder Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANn_e1gBk62JmBeNGKaDpio_6mBKEcTL5OpHHaZaDdw37h8n6uADWeBMGbFCTlbFrv_L2-ncVMKGpRTJ9WqU2vQYXTLr859Ul6CMAqbQDibiju_m7dOeYrqy2uXYssZ4mEhDMZy1QPDLj0RGzWwhZCVCaGhQKhEP5nm_sXV6ooRoZqhSE0kCb9Q",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJedYjhl_NBDkRr_sq38T_QXw",
+         "plus_code" : {
+            "compound_code" : "RF6G+JW Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF6G+JW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJedYjhl_NBDkRr_sq38T_QXw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "State Highway 39"
+      },
+       {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.82087169999999,
+               "lng" : 76.46362329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8222376802915,
+                  "lng" : 76.46501363029151
+               },
+               "southwest" : {
+                  "lat" : 31.8195397197085,
+                  "lng" : 76.46231566970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "6dddef9070ca69d0f61eac21d5418e5583632fc0",
+         "name" : "Government Primary School",
+         "place_id" : "ChIJyfTA31HNBDkRTCbahLJuM0w",
+         "plus_code" : {
+            "compound_code" : "RFC7+8C Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRFC7+8C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJyfTA31HNBDkRTCbahLJuM0w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Bhaleth Sayor Pul, Chowki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.811097,
+               "lng" : 76.475554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8124436802915,
+                  "lng" : 76.47687478029151
+               },
+               "southwest" : {
+                  "lat" : 31.8097457197085,
+                  "lng" : 76.47417681970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "db08dbd8a5b70943efc8556498a16e86bc681165",
+         "name" : "Cera Style Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJmTgLYl_NBDkR596mM1em1kM",
+         "plus_code" : {
+            "compound_code" : "RF6G+C6 Hamirpur, Himachal Pradesh, India",
+            "global_code" : "8J3RRF6G+C6"
+         },
+         "reference" : "ChIJmTgLYl_NBDkR596mM1em1kM",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Sujanpur Road Chowki,, Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8106801,
+               "lng" : 76.476457
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8119265802915,
+                  "lng" : 76.47786693029151
+               },
+               "southwest" : {
+                  "lat" : 31.80922861970851,
+                  "lng" : 76.47516896970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "3b959863f84b34ef9168bdbb52af167a3a117ca8",
+         "name" : "Sankat Mochan Hanuman Temple",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108975609117931491517/photos\"\u003eRam Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAa4DboAVJMgralJru3cVfmKx5oG6PiAYzfhtqKK6KPuL2d0f0vPKeZXweGUiYFugSqTRZTJ9lW2uJ9CJreKA8EcXlUuEKbIaxHd9r2TbN0dJOYhdtEokJQN7WGJsI5PfhEhCs4y4NWpaDJtgZxJemzBhfGhSs3tnunEy3O174EGw3ZbwZdvb18w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ55WefaDSBDkRxpGlqjj-u2Y",
+         "plus_code" : {
+            "compound_code" : "RF6G+7H Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF6G+7H"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ55WefaDSBDkRxpGlqjj-u2Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 53,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8106495,
+               "lng" : 76.4770089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8119628302915,
+                  "lng" : 76.47833728029151
+               },
+               "southwest" : {
+                  "lat" : 31.8092648697085,
+                  "lng" : 76.47563931970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "27ca1c34bbf038cbafaea3d0af2fd9976cb56006",
+         "name" : "Sujanpur Hamirpur Bridge",
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116700677986814902348/photos\"\u003eAmit Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxDuif0IJhWyUXqY_d_9Q5UYGq0GtVAeHvYeClydrMlGRIoGVGNS25Mzxkv8l15M1vrydZX1BmP8WmwQ9BWPgSwnwCUAFpL8cpRp4tsJHQ8dxwj1jpUX6l296ZbX4ou3OEhA73RB5oaYqfM1T4nOlWngzGhQCJgOSRLrTi1VqZrr73OUpv0EyUw",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJ8RFw7DDTBDkRhVtAzNkocPw",
+         "plus_code" : {
+            "compound_code" : "RF6G+7R Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF6G+7R"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ8RFw7DDTBDkRhVtAzNkocPw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.825657,
+               "lng" : 76.483661
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8269402302915,
+                  "lng" : 76.48508598029152
+               },
+               "southwest" : {
+                  "lat" : 31.8242422697085,
+                  "lng" : 76.48238801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "753d1775daca0b2dc8c1f57b9e5c93b5afdf60f2",
+         "name" : "NK Auto Repair",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ70HC4GjNBDkRPhQmNeRKV5k",
+         "plus_code" : {
+            "compound_code" : "RFGM+7F Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGM+7F"
+         },
+         "reference" : "ChIJ70HC4GjNBDkRPhQmNeRKV5k",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "establishment" ],
+         "vicinity" : "Blath, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8256112,
+               "lng" : 76.483749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8269247802915,
+                  "lng" : 76.4851388802915
+               },
+               "southwest" : {
+                  "lat" : 31.8242268197085,
+                  "lng" : 76.48244091970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8a6f9f5cdec32aa54b3c28f05c08f1ef1bc52733",
+         "name" : "Thakur Dhaba Darla",
+         "place_id" : "ChIJTYyu4GjNBDkRpFEy3Tt0vLU",
+         "plus_code" : {
+            "compound_code" : "RFGM+6F Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGM+6F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJTYyu4GjNBDkRpFEy3Tt0vLU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Solan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.825711,
+               "lng" : 76.48375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8269994302915,
+                  "lng" : 76.4851690302915
+               },
+               "southwest" : {
+                  "lat" : 31.8243014697085,
+                  "lng" : 76.4824710697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "090f1a063576643903e8beed4c4ffa7526801c87",
+         "name" : "Rana Automobile",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJIz2b4GjNBDkRtPR8xtfpOPA",
+         "plus_code" : {
+            "compound_code" : "RFGM+7F Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGM+7F"
+         },
+         "reference" : "ChIJIz2b4GjNBDkRtPR8xtfpOPA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Blath, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8258223,
+               "lng" : 76.4837986
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8270927302915,
+                  "lng" : 76.4852384302915
+               },
+               "southwest" : {
+                  "lat" : 31.8243947697085,
+                  "lng" : 76.4825404697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ce1c659e698a807fa1beec8b42070a23fd937325",
+         "name" : "Sai gerenal store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115938004311933360559/photos\"\u003esandeep rana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuNHrFslpBo40S4-oijPoMZl5SMM_q-uFlRlgtdBwjSkTg80B51ymsyBlDcTuV_yZWM40FCY1PNvBco1nILnzJ-ImIKaDVRBNncW0ZX_7JydCZKSlZdjIFtjWDj4C391DEhCQLrp_JYHwa4SwtpFVo-15GhSml48yw-FkAzV5Jgj-TaP24Yg5PA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJL-fIIuTNBDkR2tks5gQlxMM",
+         "plus_code" : {
+            "compound_code" : "RFGM+8G Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGM+8G"
+         },
+         "rating" : 5,
+         "reference" : "ChIJL-fIIuTNBDkR2tks5gQlxMM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "State Highway 39, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.82610430000001,
+               "lng" : 76.4837493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.82731113029151,
+                  "lng" : 76.4852971302915
+               },
+               "southwest" : {
+                  "lat" : 31.82461316970851,
+                  "lng" : 76.48259916970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "89d68266f2c449b72d9c5d54c7faa627d32a28e7",
+         "name" : "steel king steel wooden furniture ind",
+         "place_id" : "ChIJcy7o_xXNBDkRdmvyp_ocl2Q",
+         "plus_code" : {
+            "compound_code" : "RFGM+CF Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGM+CF"
+         },
+         "reference" : "ChIJcy7o_xXNBDkRdmvyp_ocl2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "Sujanpur-Tira Road, Tira Sujanpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.825609,
+               "lng" : 76.48421399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.82701813029151,
+                  "lng" : 76.4854845302915
+               },
+               "southwest" : {
+                  "lat" : 31.82432016970851,
+                  "lng" : 76.48278656970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "05e48cd62712c9d1bbabcd2dbb44dfe7de461e6c",
+         "name" : "Surender Singh and Sons Hindustan Petroleum",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ97vm22jNBDkRNhQ5IXGWB6w",
+         "plus_code" : {
+            "compound_code" : "RFGM+6M Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGM+6M"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ97vm22jNBDkRNhQ5IXGWB6w",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Blath, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8256531,
+               "lng" : 76.4842951
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8270676802915,
+                  "lng" : 76.4855523302915
+               },
+               "southwest" : {
+                  "lat" : 31.8243697197085,
+                  "lng" : 76.48285436970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "5694b1d21aee650a0c5f96cf8228d1ca4aaa24a9",
+         "name" : "Petrol Pump",
+         "place_id" : "ChIJi8l92WjNBDkRz2BUGg29eWY",
+         "plus_code" : {
+            "compound_code" : "RFGM+7P Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGM+7P"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJi8l92WjNBDkRz2BUGg29eWY",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8232088,
+               "lng" : 76.4860674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.82635729999999,
+                  "lng" : 76.48802868029151
+               },
+               "southwest" : {
+                  "lat" : 31.8221593,
+                  "lng" : 76.48533071970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a6e7391014faef2fa9b1c7bb21a0f6b6989208e0",
+         "name" : "Ishwar Dass House",
+         "photos" : [
+            {
+               "height" : 869,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114402462175183430109/photos\"\u003esuresh kumar thraniya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEFa60wB6i4Q0UgMGMf5RabxK2Cztklqt7yfnuSpbHNVvpGvgPLnpKes0jyJ2hweXJlBGP2Kb3jYTNKQ2KOfic1CFWmeyxtvVqgqVtQcevmkM_ujGNm_eiBf1ai34gtK-EhBXMtLD8SxDknGfD9hum0z3GhT9n6dAGlfcML4wzPDkRR8uN-hxKw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJr6oP92XNBDkRKMOHefsmK2I",
+         "plus_code" : {
+            "compound_code" : "RFFP+7C Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFFP+7C"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJr6oP92XNBDkRKMOHefsmK2I",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.80729199999999,
+               "lng" : 76.4782146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.80863373029149,
+                  "lng" : 76.47954683029151
+               },
+               "southwest" : {
+                  "lat" : 31.80593576970849,
+                  "lng" : 76.4768488697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+         "id" : "8649fd162b2ea1d86d6637cfa6f9f96113934424",
+         "name" : "Dosarka Near Karot",
+         "place_id" : "ChIJeYGtwaHSBDkRt9E-1bMeX6A",
+         "plus_code" : {
+            "compound_code" : "RF4H+W7 Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF4H+W7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJeYGtwaHSBDkRt9E-1bMeX6A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Major District Road 36"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.82595389999999,
+               "lng" : 76.48765589999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.82726758029149,
+                  "lng" : 76.4890316802915
+               },
+               "southwest" : {
+                  "lat" : 31.8245696197085,
+                  "lng" : 76.48633371970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "86d75a21a220ff5e07849df45b8338fa63499b8c",
+         "name" : "Shri Panchmukhi Hanuman Temple",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100034082970749714853/photos\"\u003eAM Studio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHvD6-jW1Z5M4Li2-Lj5gOr_ZHvqUIjWaoE4VOuwEn1nquo0iTVg6tAAel1OmvBzEFEDeIKhyN-Y0_iKBk8eb11X2WuDbDxB0M_NxTu3nxLiiWuLr5PW4WhS5Qdze-8eDEhDmTpp7e1_e7UUT86wFzINZGhQFGoiz8dJ-q0lvD9yDDIir_--Q7w",
+               "width" : 864
+            }
+         ],
+         "place_id" : "ChIJlwhtBG_NBDkRbICUMaJByBs",
+         "plus_code" : {
+            "compound_code" : "RFGQ+93 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGQ+93"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJlwhtBG_NBDkRbICUMaJByBs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8259299,
+               "lng" : 76.48784569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8272850802915,
+                  "lng" : 76.48919543029149
+               },
+               "southwest" : {
+                  "lat" : 31.8245871197085,
+                  "lng" : 76.48649746970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "0c707915ab3acdfb708cb996c176fc14fb9e43a0",
+         "name" : "Shani Dev Temple SH 39 Hindu Temple",
+         "place_id" : "ChIJzy2VBm_NBDkR6cE6B5rI_TI",
+         "plus_code" : {
+            "compound_code" : "RFGQ+94 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGQ+94"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJzy2VBm_NBDkR6cE6B5rI_TI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8258015,
+               "lng" : 76.48841399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8271228302915,
+                  "lng" : 76.4897469302915
+               },
+               "southwest" : {
+                  "lat" : 31.8244248697085,
+                  "lng" : 76.4870489697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e0a0e0a25eb8946bf34643cb795a6db6e0d264d4",
+         "name" : "Rinku Restaurant",
+         "place_id" : "ChIJG_u7qG_NBDkRwux9ZTKPSRw",
+         "plus_code" : {
+            "compound_code" : "RFGQ+89 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGQ+89"
+         },
+         "reference" : "ChIJG_u7qG_NBDkRwux9ZTKPSRw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "vicinity" : "Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8062252,
+               "lng" : 76.4790058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8076080802915,
+                  "lng" : 76.48040173029149
+               },
+               "southwest" : {
+                  "lat" : 31.8049101197085,
+                  "lng" : 76.47770376970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "89b5ab666ea743eee845e8c389c0cc3458d65a80",
+         "name" : "Govt. Primary School, Dosarka",
+         "place_id" : "ChIJnwjh-6HSBDkRqV47Phje8go",
+         "plus_code" : {
+            "compound_code" : "RF4H+FJ Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF4H+FJ"
+         },
+         "reference" : "ChIJnwjh-6HSBDkRqV47Phje8go",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.82510019999999,
+               "lng" : 76.48962949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8265401802915,
+                  "lng" : 76.4909432802915
+               },
+               "southwest" : {
+                  "lat" : 31.8238422197085,
+                  "lng" : 76.4882453197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "bd887e79d2a6bfd6ada5530abb26bfe2bd5078eb",
+         "name" : "AmarRaj HP Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJuVk4UCLNBDkR6X47JaZC-K0",
+         "plus_code" : {
+            "compound_code" : "RFGQ+2V Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGQ+2V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJuVk4UCLNBDkR6X47JaZC-K0",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "State Highway 39, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.825162,
+               "lng" : 76.489604
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8265708802915,
+                  "lng" : 76.49092983029149
+               },
+               "southwest" : {
+                  "lat" : 31.8238729197085,
+                  "lng" : 76.48823186970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "f25bfe2f64e4dcc134ba09e5ccd6c58f5e75a289",
+         "name" : "Raj Filling Station Hindustan Petroleum",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106102157448094570433/photos\"\u003eSahil Chandel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYNvw5ZfCD4Y2AS_ZKfoTo-zbnHAAHCTjQWjB2pFqw9gNHEzJr0sVkdzdlZhVM-COp2Zg6HmVgv_JPL0n3OnYLNPHjrtHOy7fFgP7S5RHNJnR8_IeUkDNl3Hc4JhN4KdaEhCnew07mDWEBcUHZTrigdBCGhRqzTv-suC7Fa1jfPUXMHhL1_2OVw",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJLWuo6m_NBDkRlUnWzWhkjuc",
+         "plus_code" : {
+            "compound_code" : "RFGQ+3R Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGQ+3R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLWuo6m_NBDkRlUnWzWhkjuc",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Sajanpur, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.825661,
+               "lng" : 76.489386
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8268616302915,
+                  "lng" : 76.4906219302915
+               },
+               "southwest" : {
+                  "lat" : 31.8241636697085,
+                  "lng" : 76.48792396970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "22710bc15d433aadf7833fcac5639b6b6f6d4a90",
+         "name" : "Indane Gas Agency",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJpcT_uG_NBDkRzH6P1257cf4",
+         "plus_code" : {
+            "compound_code" : "RFGQ+7Q Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGQ+7Q"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJpcT_uG_NBDkRzH6P1257cf4",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "State Highway 39, Sujanpur Tira"
+      },
+       {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8251198,
+               "lng" : 76.48974539999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.82656343029149,
+                  "lng" : 76.4910397802915
+               },
+               "southwest" : {
+                  "lat" : 31.8238654697085,
+                  "lng" : 76.48834181970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "9489bcbbd79061017e38f6e374b301a2cab09562",
+         "name" : "Hp Smart Petrol Pump",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107799258985903295461/photos\"\u003eAMARRAJ HPCENTER\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAO2saCPsWs-4YntaLhvGF3MkE3SV2d3dUce7oE12i_lLKt7LDmOyepVTlYftmiBkk1SE5fidZSjIlpJ4LWkBHcXjOn1pnUte58F3n2GxeDmSn0YtwJAA4qp-dB74kv1drEhD6JnC-lPU2v-Q6BUBSxaEnGhSDqYIZVIkkDCAzBdlNVTQmOsyXbA",
+               "width" : 3600
+            }
+         ],
+         "place_id" : "ChIJmRIR6m_NBDkR17cxykGwa64",
+         "plus_code" : {
+            "compound_code" : "RFGQ+2V Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGQ+2V"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJmRIR6m_NBDkR17cxykGwa64",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "State Highway 39"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.82527219999999,
+               "lng" : 76.48984159999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8266709302915,
+                  "lng" : 76.49115643029151
+               },
+               "southwest" : {
+                  "lat" : 31.8239729697085,
+                  "lng" : 76.4884584697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "69cbaac3b2ecd0dc8e861bed6b374ba8b51eb48d",
+         "name" : "Tvs Showroom",
+         "place_id" : "ChIJ2bXRkiPNBDkRwDMNW68AUvc",
+         "plus_code" : {
+            "compound_code" : "RFGQ+4W Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGQ+4W"
+         },
+         "reference" : "ChIJ2bXRkiPNBDkRwDMNW68AUvc",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8213423,
+               "lng" : 76.4911472
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.82726805,
+                  "lng" : 76.4919223
+               },
+               "southwest" : {
+                  "lat" : 31.81936705,
+                  "lng" : 76.48882190000002
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "3c0bb3a26174b99be698012b440f498a16d5f111",
+         "name" : "Village Tikkar School",
+         "place_id" : "ChIJpU_71HrNBDkRS_pp0wNG_xg",
+         "plus_code" : {
+            "compound_code" : "RFCR+GF Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFCR+GF"
+         },
+         "rating" : 3,
+         "reference" : "ChIJpU_71HrNBDkRS_pp0wNG_xg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8256753,
+               "lng" : 76.4903334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8269745302915,
+                  "lng" : 76.4916853302915
+               },
+               "southwest" : {
+                  "lat" : 31.8242765697085,
+                  "lng" : 76.4889873697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b8aac94c0b12271373ce9e9317b12de8e37a510d",
+         "name" : "Thakur Service Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1658,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109577075153021663155/photos\"\u003eyajnish kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4P43qBO69dzlnN0wOyvklmlo7jpLDBjit2MvL-h76h61JHQED-WoD5ygvNhoSrMVphqni_wsIwYR5WwDS3GvFBFqEtGcZCbaZEin3Ii-y0yz-O9ugJSMWb87kzIljjHhEhB9jg6VdfEGDiKqd1Esk3N-GhSXrZ_C3pE24WLIzskm1qDHxx5a8A",
+               "width" : 1560
+            }
+         ],
+         "place_id" : "ChIJx9tH22_NBDkR6EBnZUOUu_I",
+         "plus_code" : {
+            "compound_code" : "RFGR+74 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGR+74"
+         },
+         "rating" : 5,
+         "reference" : "ChIJx9tH22_NBDkR6EBnZUOUu_I",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.825667,
+               "lng" : 76.4903834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8269714302915,
+                  "lng" : 76.49173503029151
+               },
+               "southwest" : {
+                  "lat" : 31.82427346970851,
+                  "lng" : 76.48903706970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "08772d84e2fb29493bd67f9c3911fe067dbfba74",
+         "name" : "Satyam Honda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117809823882467184490/photos\"\u003eRahul Verma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVkmx-DBokkj66CBpfT_ZP0rwqKQ6pi9Wyzfq5smKgOXcCMBkG-P3kO-llA_egHLyVqlEbBwDPqnLhXtR-WipP4wEc9n-T4IB4NCrjm9p4mLFOraR1RNpog-VPTzqWbFwEhAM9FLx5zRVHPXhyP4ItW8kGhRwhCkdDYeXvB4wN82y_79CzKR7tw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJGyFq22_NBDkRs9Ur3iFaaOU",
+         "plus_code" : {
+            "compound_code" : "RFGR+75 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGR+75"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJGyFq22_NBDkRs9Ur3iFaaOU",
+         "scope" : "GOOGLE",
+         "types" : [ "car_dealer", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.80573510000001,
+               "lng" : 76.4667991
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.80708408029151,
+                  "lng" : 76.46814808029151
+               },
+               "southwest" : {
+                  "lat" : 31.80438611970851,
+                  "lng" : 76.46545011970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "4bf82461bcd19b708eeca67b29585a8e8b36139c",
+         "name" : "IPH",
+         "place_id" : "ChIJfUYovKjSBDkRuy4OP-Jpxa0",
+         "plus_code" : {
+            "compound_code" : "RF48+7P Chowki, Himachal Pradesh, India",
+            "global_code" : "8J3RRF48+7P"
+         },
+         "reference" : "ChIJfUYovKjSBDkRuy4OP-Jpxa0",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Major District Road 36"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.825391,
+               "lng" : 76.490883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8268491802915,
+                  "lng" : 76.4922159802915
+               },
+               "southwest" : {
+                  "lat" : 31.8241512197085,
+                  "lng" : 76.48951801970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "db6bb881d70aa0e4bcb56ae55aac4bb51867d1c5",
+         "name" : "Sainik Rest House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117051657658782406244/photos\"\u003eKul Bhushan Sehgal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATYL7Twyr8DcLB3eplvzBrIrMIdjOfgEvYFi5rOrhLfFP5E204KyrQmZuopbu41j08nD_gW66QkA9OPO_OrlsQ9fIisZZbOVMu9LsUx8yBiR4WbqurdHMb1To0S8DATCDEhANfPaC7oikPjjt2bcR-wbBGhRpt0KXUAztpT680bDnas6viuMg5Q",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJLYTH32_NBDkRSAPHGooK26c",
+         "plus_code" : {
+            "compound_code" : "RFGR+59 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGR+59"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJLYTH32_NBDkRSAPHGooK26c",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "Sajanpur, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.825718,
+               "lng" : 76.49089300000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8270209802915,
+                  "lng" : 76.49226233029151
+               },
+               "southwest" : {
+                  "lat" : 31.8243230197085,
+                  "lng" : 76.4895643697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c979303edd164b79f94b5adeb97b8f914d8d041c",
+         "name" : "Baba Motors",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101117868168253648517/photos\"\u003eROVERS OF HIMALAYA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeja3lM0ZL2Rd31xwzIhUVohsTYohqsNd9V4P9GeIuOClIXbDBCRaRnM6BxzIt0gUz_nXUUfIB53MPSF045357mh1wrGmF0gPisjdUrrMILVUSxDGfyZC6hzvm7ZfFF93EhA7rY-G9zCN-a5zQp-fyUqsGhQNrilG3ExkRUxu27h19kKJZwApbw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJNxDE2G_NBDkR3T8RtFkUWBo",
+         "plus_code" : {
+            "compound_code" : "RFGR+79 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGR+79"
+         },
+         "rating" : 5,
+         "reference" : "ChIJNxDE2G_NBDkR3T8RtFkUWBo",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Sajanpur, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8207276,
+               "lng" : 76.4553562
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8221953802915,
+                  "lng" : 76.4567550802915
+               },
+               "southwest" : {
+                  "lat" : 31.8194974197085,
+                  "lng" : 76.45405711970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "fbb4ab96850671d67322e5d3df058ec3af5bd89c",
+         "name" : "Gram Panchayat Tippari",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117809823882467184490/photos\"\u003eRahul Verma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFojmRC_87Z1q7iiaajp68pP6JVpsz5DmjaPehjvLzs7M_A5rKyF8_derVu7OxJMXNvcmx7oK81VnFFQetQjT8plMRMS34qFwhhnU6vntmniIwNXfQgmd5MzlMt3Ss-jwEhCTAxiBf0MATtcbE0LN5Mr1GhQ35giqnCaze9JPF1bduiK0C4MfbA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJqznFpLIyGzkR3U9JMQUE9jc",
+         "plus_code" : {
+            "compound_code" : "RFC4+74 Mahesi, Himachal Pradesh, India",
+            "global_code" : "8J3RRFC4+74"
+         },
+         "rating" : 5,
+         "reference" : "ChIJqznFpLIyGzkR3U9JMQUE9jc",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Mahesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.82601940000001,
+               "lng" : 76.4917919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8274352302915,
+                  "lng" : 76.4930710302915
+               },
+               "southwest" : {
+                  "lat" : 31.8247372697085,
+                  "lng" : 76.4903730697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "55194e6ace897607a479992696f58f4096709cad",
+         "name" : "DELIGHT CAFE",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3136,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116700677986814902348/photos\"\u003eAmit Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzrEeGmvSrwjfLzpCgmZ7uLdTmYh61pvtlGQn-iDXp4UVyt3qpbp-LrXR3duyD7SSDJFjeaRO2Qjczf3-vhQoDr8-ym0GGGDDl7ZlC4NOu_bZPa5MU_ccmJ-Ebraakip1EhCCzZgDuPFWCYTfnezI1tcFGhTMHsKbvGJVBzU47BXu_3khbgxYaw",
+               "width" : 1568
+            }
+         ],
+         "place_id" : "ChIJET0qDtnNBDkRu4VBhz452mA",
+         "plus_code" : {
+            "compound_code" : "RFGR+CP Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGR+CP"
+         },
+         "rating" : 3,
+         "reference" : "ChIJET0qDtnNBDkRu4VBhz452mA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8361242,
+               "lng" : 76.4685011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8375315802915,
+                  "lng" : 76.47045918029151
+               },
+               "southwest" : {
+                  "lat" : 31.8348336197085,
+                  "lng" : 76.46776121970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c07521fab9fc0e6b40c03da840b7ffd666e0de5a",
+         "name" : "Kuhn Khas",
+         "place_id" : "ChIJOaTPz1vNBDkR8FC20HrU6eo",
+         "plus_code" : {
+            "compound_code" : "RFP9+CC Kuhn Khas, Himachal Pradesh, India",
+            "global_code" : "8J3RRFP9+CC"
+         },
+         "reference" : "ChIJOaTPz1vNBDkR8FC20HrU6eo",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Ward no 4, Rakhed"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8298827,
+               "lng" : 76.49045749999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8310275,
+                  "lng" : 76.4946686
+               },
+               "southwest" : {
+                  "lat" : 31.8264483,
+                  "lng" : 76.48905379999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "a1d32347b7cc32fdb89de78535ae35ceba9e4a1b",
+         "name" : "GOVT ITI SUJANPUR TIHRA",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104157152751160690315/photos\"\u003eYASH THAKUR\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxZCepN1mjKSAsUwBPfX1vUEzLhO8yPZfzZgZk3OxRIElegji52o6G9TkTA21yqPTnRZl-cyCOkv54JXs4iACFjARXXqB0Ajh9bePfJoqP8zrVozZFzbm5vm--WLZLXSWEhDNGHHKDZA_L0Oj0lewfGtTGhRA9N3tFFEHOy38lUHHhnzSy2q_xg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJiRLqjHHNBDkReE6M4CB_hWk",
+         "plus_code" : {
+            "compound_code" : "RFHR+X5 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFHR+X5"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJiRLqjHHNBDkReE6M4CB_hWk",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8267922,
+               "lng" : 76.49305819999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8282403302915,
+                  "lng" : 76.4942420802915
+               },
+               "southwest" : {
+                  "lat" : 31.8255423697085,
+                  "lng" : 76.49154411970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "01c2e8d262d4c784178f1e27ece463ff14b379c6",
+         "name" : "SS MOTERS TVS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 922,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100773159801621394823/photos\"\u003eSS MOTERS TVS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJEDIFM1a5QoLd_Qco2L3jwguH14FNZ5RQRJOvk8czcbJfG4uxaZIzRLrEQLyNSOCeRfE4kVQPhWAO5LEpjh2NnJVa-bxBc3q0KF13USucZ4Gm06VBAgm178MCyUjh3OVEhBVGjYwFtpZ_58tD59sroxQGhR-WULHLglP0hVmwUkUbv7iX9z5Qg",
+               "width" : 1984
+            }
+         ],
+         "place_id" : "ChIJr1_fHLnNBDkR2wysPS8RqJw",
+         "plus_code" : {
+            "compound_code" : "RFGV+P6 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGV+P6"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJr1_fHLnNBDkR2wysPS8RqJw",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.82719699999999,
+               "lng" : 76.4928621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8285485802915,
+                  "lng" : 76.4942068302915
+               },
+               "southwest" : {
+                  "lat" : 31.8258506197085,
+                  "lng" : 76.49150886970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b926f50eec05174bb63b80f419b38de97f7a687a",
+         "name" : "Neelkhant Motors",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 384,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105060495976489443099/photos\"\u003eAnkush raj Bhatia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAIcQA0KYnjFOirRvJhZt_qT2Y9GChxiPjiFu1_cas0c3FWdj6UR0C1DWkurymEeYDvixpXcXrU1-y6OLMeg9fkrGa_N-deN5xHR14plOygUGi_DY4JqCsTy1GjzxvOz8SEhCL0pnIbwea0Ohfu3CgpU3nGhRNEgRId_fyPOerEOglvHrN9n1OVA",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJa12hs3HNBDkRUhj29Ny7a_U",
+         "plus_code" : {
+            "compound_code" : "RFGV+V4 Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFGV+V4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJa12hs3HNBDkRUhj29Ny7a_U",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Sajanpur, Hamirpur, SH-39, Maranda Hamirpur Sujanpur Road, Sujanpur Tira, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8301028,
+               "lng" : 76.49194229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8308058802915,
+                  "lng" : 76.495689
+               },
+               "southwest" : {
+                  "lat" : 31.8281079197085,
+                  "lng" : 76.49069339999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "442a8f2d6e511dfb521108814b3c420fccee11d2",
+         "name" : "Doli primary school ward no 4",
+         "place_id" : "ChIJseauG3LNBDkRtmIoSVW6PUo",
+         "plus_code" : {
+            "compound_code" : "RFJR+2Q Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFJR+2Q"
+         },
+         "reference" : "ChIJseauG3LNBDkRtmIoSVW6PUo",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Nadaun - Sujanpur Tira Road, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8277776,
+               "lng" : 76.4936872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8291601802915,
+                  "lng" : 76.4950061302915
+               },
+               "southwest" : {
+                  "lat" : 31.8264622197085,
+                  "lng" : 76.49230816970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "72848cbf8147fc067bfcbbd76ecfda26954ddd5f",
+         "name" : "S.k. Industry",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110483800664258052121/photos\"\u003easif khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiiZS6E-C_hasLvwvzQGBsK7GSd5GLowRKipyU8fC3Bqij3dMywKpWJAW0VKtMM-5Z0IJKsgUkwLh8VLjkrCTyK01LAAkq1airo8iZhyTe0lg56ntMMznt3PvtSaekqnvEhBDuIkuC6nSWPStkJqwXC8wGhQz5r8zQ-urCiOcmaM-39HfJ5GKqg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJof42pnHNBDkRg-sn-7nzQZY",
+         "plus_code" : {
+            "compound_code" : "RFHV+4F Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFHV+4F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJof42pnHNBDkRg-sn-7nzQZY",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Hamirpur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8276947,
+               "lng" : 76.49384479999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8291353802915,
+                  "lng" : 76.49511038029149
+               },
+               "southwest" : {
+                  "lat" : 31.8264374197085,
+                  "lng" : 76.49241241970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "37664b59aa4bde2b5a9ae6cd86717060664dbafd",
+         "name" : "Maharaja Sansar Chand Senior Secondary School",
+         "photos" : [
+            {
+               "height" : 322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116700677986814902348/photos\"\u003eAmit Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYcoCRW9JOD2Fzchv8HkP1EWciDm5qEw2vrq43cxbOEdrETOy85OiqaG8IeWTuI-dd5Qn02ljLrkZ9wYLU3JxChFE068OrBvHpvMXg6sj5peoZs6fFiU87YEVntMdaDiKEhBZQfCKEViJ3COJylrWgDkrGhQVBr89DH-qEu3JrjokgDddfstGGw",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJC_qM-XPNBDkRkWFZ7jiGPwg",
+         "plus_code" : {
+            "compound_code" : "RFHV+3G Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFHV+3G"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJC_qM-XPNBDkRkWFZ7jiGPwg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "State Highway 39, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8239042,
+               "lng" : 76.45197039999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8258047302915,
+                  "lng" : 76.4531205802915
+               },
+               "southwest" : {
+                  "lat" : 31.8231067697085,
+                  "lng" : 76.45042261970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3574787c0b8c3e7acd061ca42102c2e153f72542",
+         "name" : "टाबर",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJld6WSs4zGzkRtPvT7I1GEvo",
+         "plus_code" : {
+            "compound_code" : "RFF2+HQ Mahesi, Himachal Pradesh, India",
+            "global_code" : "8J3RRFF2+HQ"
+         },
+         "reference" : "ChIJld6WSs4zGzkRtPvT7I1GEvo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "Mahesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8284584,
+               "lng" : 76.49433359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8298262802915,
+                  "lng" : 76.4956371302915
+               },
+               "southwest" : {
+                  "lat" : 31.8271283197085,
+                  "lng" : 76.49293916970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0b92ecd0711f11e2b6228db18b4a4e12c9bab19f",
+         "name" : "car Care Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114274602055054444707/photos\"\u003eAman Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_XjKUM1ICTGs0aiC3p85Avf9ZKuUIWcJiyivXto7xyIEc6WnrXTzMGoPHllmSqtAwWKIyY2d8y9SjF5oUcinamNs8s4LaWtD5NEgR0EBE4bmIyu08mmcUdtggZ46uqePEhD5KBRM50_a0APiqM08R_qwGhSdQXK1FMQAZ23mQ2JOEcoo1soDDQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJt9tbKQXNBDkRhF2FonRAPhY",
+         "plus_code" : {
+            "compound_code" : "RFHV+9P Sujanpur Tira, Himachal Pradesh, India",
+            "global_code" : "8J3RRFHV+9P"
+         },
+         "reference" : "ChIJt9tbKQXNBDkRhF2FonRAPhY",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "establishment" ],
+         "vicinity" : "near csd canteen, Sujanpur Tira"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 31.800132,
+               "lng" : 76.4730412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8012447302915,
+                  "lng" : 76.47436143029151
+               },
+               "southwest" : {
+                  "lat" : 31.7985467697085,
+                  "lng" : 76.4716634697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8f862e2a91b67d223eea64c5d09002b7746effa8",
+         "name" : "Radha Soami Satsang Beas, Balehu",
+         "place_id" : "ChIJnXpJrqTSBDkRtNLyhj8arlE",
+         "plus_code" : {
+            "compound_code" : "RF2F+36 Balehu, Himachal Pradesh, India",
+            "global_code" : "8J3RRF2F+36"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJnXpJrqTSBDkRtNLyhj8arlE",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Karot, Nadaun - Sujanpur Tira Road, Nadaun"
+      }
+   
+
+]
