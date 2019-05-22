@@ -22,9 +22,10 @@ let getplaces = function(lat, lng,radius) {
     
     result.sort(function(a,b)
     {
-        let d1=getDistance(lat,lng, a.geometry.location.lat, a.geometry.location.lng);
-        let d2=getDistance(lat,lng, b.geometry.location.lat, b.geometry.location.lng);
-        return d1-d2;
+          let d1=getDistance(lat,lng, a.geometry.location.lat, a.geometry.location.lng);
+          let d2=getDistance(lat,lng, b.geometry.location.lat, b.geometry.location.lng);
+          return d1-d2;
+
     });
 
     var ts_end = new Date();
