@@ -4,7 +4,7 @@ const fs = require('fs');
 //http://localhost:8001/getplaces?lat=1.30&lng=1.20
 
 // We should add restaurants to this file places_database.json
-let rawPlacesData = fs.readFileSync('Places1_database.json');
+let rawPlacesData = fs.readFileSync('allPlaces_database.json');
 let Places = JSON.parse(rawPlacesData);
 
 let getplaces = function(lat, lng,radius) {
@@ -14,18 +14,22 @@ let getplaces = function(lat, lng,radius) {
     //Object.keys(req.query).length    one option
     if(radius==' ')
     {
-    var radiusa = 1.27; //KM
+    var radiusa = 5; //KM
 
     }
     else
     {
         var radiusa=radius;
     }
+    var c=0;
+    //console.log("radius is"+radiusa);
    
-	for (var i=0;i<Places.length;i++) {
+	for (var i=0;i<Places.length-1;i++) {
+        c++;
 		let distance = getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
 		console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places[i].geometry.location.lat + "," + Places[i].geometry.location.lng + ") is " + distance + " KM");
 		if(distance <radiusa) { 
+            console.log("pushing");
 
 	 	   result.push(Places[i]);
 		}
@@ -34,18 +38,19 @@ let getplaces = function(lat, lng,radius) {
 	}
     result.sort(function(a,b)
     {
-        for (var i=0;i<Places.length-1;i++)
-        {
-            let d1=getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
-            let d2=getDistance(lat,lng, Places[i+1].geometry.location.lat, Places[i+1].geometry.location.lng);
+        
+       
+            let d1=getDistance(lat,lng, a.geometry.location.lat, a.geometry.location.lng);
+            let d2=getDistance(lat,lng, b.geometry.location.lat, b.geometry.location.lng);
           return d1-d2;
-        }
+       
 
     });
-console.log(result);
+console.log(c);
 
 	return result; 
 };
+
 
 if(typeof(Number.prototype.toRad) === "undefined") {
     Number.prototype.toRad = function () {

@@ -14,7 +14,16 @@ app.get('/getplaces',function(req, res) {
 	res.contentType('application/json');
 	res.end(JSON.stringify(result));
 });
-
+var request = require('request');
+var start = new Date();
+request.get({
+  url : 'getplaces.js',
+  time : true
+},function(err, response){
+	 console.log('Request time in ms', new Date() - start);
+   
+   
+})
 
 
 
