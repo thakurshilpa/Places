@@ -10,13 +10,25 @@ let Places = JSON.parse(rawPlacesData);
 let getplaces = function(lat, lng,radius) {
     var ts_begin = new Date();
     var result = [];
+    var l=Places.length;
+    var i=0;
     radius = radius || 5; // KM
-    console.log("Total Places: " + Places.length);
-    for (var i=0;i < Places.length; i++) {
+    console.log("Total Places: " +l );
+    while(i< l){
         let distance = getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
         if(distance < radius) { 
            console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places[i].geometry.location.lat + "," + Places[i].geometry.location.lng + ") is " + distance + " KM");
            result.push(Places[i]);
+           i++;
+        }
+        else
+        {
+            if(i==(l-61)||i<((l-61)))   //60 places cover 2.5 km from the current position if 1 place from the given lat long is more than radius
+                                        //then next 59 places should also greater than radius so we skip the entire location.
+            {i=i+60;}
+            else
+                {i++;}
+
         }
     }
     
