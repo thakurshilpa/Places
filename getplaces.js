@@ -1,6 +1,6 @@
 'use strict'
 const fs = require('fs');
-let Point = require('./Point.js').Point
+let Point = require('./point.js').Point
 
 let loadDataSet = function() {
     var ts_begin = new Date();
