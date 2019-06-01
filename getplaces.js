@@ -12,7 +12,7 @@ let getplaces = function(lat, lng,radius) {
     var result = [];
     radius = radius || 5; // KM
     console.log("Total Places: " + Places.length);
-	for (var i=0;i < Places.length; i++) {
+	for (var i=0;i < Places.length; i++ ) {
 		let distance = getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
 		if(distance < radius) { 
            console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places[i].geometry.location.lat + "," + Places[i].geometry.location.lng + ") is " + distance + " KM");
@@ -22,29 +22,28 @@ let getplaces = function(lat, lng,radius) {
     
     result.sort(function(a,b)
     {
-          let d1=getDistance(lat,lng, a.geometry.location.lat, a.geometry.location.lng);
-          let d2=getDistance(lat,lng, b.geometry.location.lat, b.geometry.location.lng);
-          return d1-d2;
-
+        let d1=getDistance(lat,lng, a.geometry.location.lat, a.geometry.location.lng);
+        let d2=getDistance(lat,lng, b.geometry.location.lat, b.geometry.location.lng);
+        return d1-d2;
     });
 
     var ts_end = new Date();
     var time_taken = ts_end - ts_begin;
     console.log("Time taken: " + time_taken + " ms");
-	return result; 
+    return result; 
 };
 
 let toRad = function(value) {
-	 return value * Math.PI / 180;
+     return value * Math.PI / 180;
 }
 
 // start and end are objects with latitude and longitude
 //decimals (default 2) is number of decimals in the output
 //return is distance in kilometers. 
 let getDistance = function(lat1, lng1, lat2, lng2) {
-	// use some API or external module to calculate distance
-	let start = { latitude: lat1, longitude: lng1 }
-	let end = { latitude: lat2, longitude: lng2 }
+    // use some API or external module to calculate distance
+    let start = { latitude: lat1, longitude: lng1 }
+    let end = { latitude: lat2, longitude: lng2 }
     let decimals = 2;
     var earthRadius = 6371; // km
     lat1 = parseFloat(start.latitude);
@@ -68,4 +67,3 @@ let getDistance = function(lat1, lng1, lat2, lng2) {
 module.exports = {
     getplaces: getplaces
 };
-
