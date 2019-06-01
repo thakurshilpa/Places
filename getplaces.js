@@ -1,22 +1,35 @@
 'use strict'
 const fs = require('fs');
+let Point = require('./Point.js').Point
 
-//http://localhost:8001/getplaces?lat=1.30&lng=1.20
+let loadDataSet = function() {
+    var ts_begin = new Date();
+    let rawPlacesData = fs.readFileSync('data/allPlaces_database.json');
+    let places = JSON.parse(rawPlacesData);
+    var ts_end = new Date();
+    var time_taken = ts_end - ts_begin;
+    console.log("Total places loaded: " + places.length);
+    console.log("Dataset load time: " + time_taken + " ms, " + "Dataset size: " + Math.floor(rawPlacesData.length/1024) + " KB");
+    return places;
+}
 
-// We should add restaurants to this file places_database.json
-let rawPlacesData = fs.readFileSync('allPlaces_database.json');
-let Places = JSON.parse(rawPlacesData);
+let Places = loadDataSet();
 
-let getplaces = function(lat, lng,radius) {
+let getplaces = function(query) { 
+    return getplacesImpl(query.lat, query.lng, query.radius, query.format, query.order);
+}
+
+let getplacesImpl = function(lat, lng, radius, format, order) {
     var ts_begin = new Date();
     var result = [];
     radius = radius || 5; // KM
-    console.log("Total Places: " + Places.length);
+    let point = new Point(lat, lng);
+    console.log("MeterX: " + point.getMeterX() + ", MeterY: " + point.getMeterY());
+
 	for (var i=0;i < Places.length; i++ ) {
 		let distance = getDistance(lat,lng, Places[i].geometry.location.lat, Places[i].geometry.location.lng);
 		if(distance < radius) { 
-           console.log("Distance from start(" + lat + "," + lng + ") to end(" + Places[i].geometry.location.lat + "," + Places[i].geometry.location.lng + ") is " + distance + " KM");
-	 	   result.push(Places[i]);
+           result.push(Places[i]);
 		}
     }
     
@@ -24,17 +37,30 @@ let getplaces = function(lat, lng,radius) {
     {
         let d1=getDistance(lat,lng, a.geometry.location.lat, a.geometry.location.lng);
         let d2=getDistance(lat,lng, b.geometry.location.lat, b.geometry.location.lng);
-        return d1-d2;
+        return order == "desc" ? d2 - d1 :  d1 - d2;
     });
 
     var ts_end = new Date();
     var time_taken = ts_end - ts_begin;
     console.log("Time taken: " + time_taken + " ms");
-    return result; 
+    return format == "min" ? toMinOutput(result, lat, lng) : result; 
 };
 
 let toRad = function(value) {
      return value * Math.PI / 180;
+}
+
+// convert to MinOutput
+let toMinOutput = function(result, lat, lng) {
+    var minOutput = [];
+    for(var kk = 0; kk < result.length; kk++) {
+        let place = result[kk];
+        let distance = getDistance(lat,lng, place.geometry.location.lat, place.geometry.location.lng);
+        console.log(place.name + ", " + distance + " KM");
+        minOutput.push({name: place.name, distance: distance});
+    }
+ 
+    return minOutput;
 }
 
 // start and end are objects with latitude and longitude
