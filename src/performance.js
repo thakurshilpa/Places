@@ -12,15 +12,26 @@ let loadDataSet = function() {
 let runtest = function(query) {
     loadDataSet();
     let results = [];
+    let fastFactor = 1;
+    let totalTimeWithQuad = 0;
+    let totalTimeWithLinear = 0;
     for(let kk = 0; kk < 5; kk++) {
         let result = run(query);
-        results.push(result);
+        let quad = result[0];
+        let linear = result[1];
+        totalTimeWithQuad = totalTimeWithQuad + quad.totalTime;
+        totalTimeWithLinear = totalTimeWithLinear + linear.totalTime;
+        results = results.concat(result);
     }
 
-    return results;
+    fastFactor = 100*Math.floor(totalTimeWithLinear/totalTimeWithQuad);
+    let response = {};
+    response.conclusion = "QuadTree implementation is " + fastFactor + "% faster than linear search";
+    response.results = results;
+    return response;
 }
 
-let run = function(query) {
+let run = function(query, algorithm) {
     var testCount = query.count || 200;
     var testLocations = [];
     for(let kk = 0; kk < testCount; kk++) {
@@ -29,13 +40,26 @@ let run = function(query) {
         testLocations.push(place.geometry.location);
     }
 
-    let quadtree_search_time = executeAlgorithmBatch(testLocations, "quadtree");
-    let linear_search_time = executeAlgorithmBatch(testLocations, "linear");
-    return {
-        totalSearchExecuted: testLocations.length,
-        quadTreeSearchTimeMs: quadtree_search_time,
-        linearSearchTimeMs: linear_search_time
-    };
+    let result = [];
+    let search_time = executeAlgorithmBatch(testLocations, "quadtree");
+    let estmatedQPS = Math.floor(1000*testLocations.length/search_time);
+    result.push({
+        algorithm: "quadtree",
+        totalSearchRun: testLocations.length,
+        totalTime: search_time,
+        queriesPerSecond: estmatedQPS
+    });
+
+    search_time = executeAlgorithmBatch(testLocations, "linear");
+    estmatedQPS = Math.floor(1000*testLocations.length/search_time);
+    result.push({
+        algorithm: "linear",
+        totalSearchRun: testLocations.length,
+        totalTime: search_time,
+        queriesPerSecond: estmatedQPS
+    });
+
+    return result;
 }
 
 let executeAlgorithmBatch = function(testLocations, algorithm) {
