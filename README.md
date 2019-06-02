@@ -1,4 +1,4 @@
-# Application for search nearby location
+# Application for searching nearby location(Internship Project)
 
 # Run the project
 git clone https://github.com/thakurshilpa/Places.git
