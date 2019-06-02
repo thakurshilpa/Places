@@ -17,5 +17,15 @@ app.get('/getplaces',function(req, res) {
     res.end(resultJson);
 });
 
+let performance = require('./src/performance.js')
+app.get('/performance',function(req, res) {
+    console.log("Request: " + req.originalUrl);
+    let query = req.query;
+    var result = performance.runtest(query);
+    var resultJson = JSON.stringify(result);
+    console.log("Response: " + resultJson);
+    res.contentType('application/json');
+    res.end(resultJson);
+});
 
 

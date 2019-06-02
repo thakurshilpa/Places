@@ -10,3 +10,13 @@ let loadDataSet = function() {
     console.log("Dataset load time: " + time_taken + " ms");
     return places;
 }
+
+let dataset = loadDataSet();
+
+let runtest = function(query) {
+    return "hero";
+}
+
+module.exports = {
+    runtest: runtest
+};
