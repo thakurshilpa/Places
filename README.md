@@ -25,3 +25,6 @@ radius: number
 order: asc/desc  
 algorithm: quadtree/linear  
 
+
+# Places performance test
+http://localhost:8001/performance?count=200  
