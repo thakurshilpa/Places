@@ -3,16 +3,18 @@ var express = require('express');
 var app = express();
 let port = 8001;
 app.listen(port);
-
 console.log("Server running on port: " + port);		
-let places = require('./getplaces.js')
+
 // Register endpoint handlers here
+let places = require('./src/getplaces.js')
 app.get('/getplaces',function(req, res) {
     console.log("Request: " + req.originalUrl);
     let query = req.query;
     var result = places.getplaces(query);
+    var resultJson = JSON.stringify(result);
+    console.log("Response: " + resultJson);
     res.contentType('application/json');
-    res.end(JSON.stringify(result));
+    res.end(resultJson);
 });
 
 
